@@ -1,0 +1,5 @@
+{"FirstName":"kay","LastName":"kayode","Address":"abk","Contact":"07031054058","DateOfBirth":"17/12/2002","Gender":"male","UserEmail":null,"Id":0,"IsDeleted":false}
+{"FirstName":"adele","LastName":"oduntan","Address":"lag","Contact":"07034231234","DateOfBirth":"12/10/2001","Gender":"female","UserEmail":"adele@gmail.com","Id":3,"IsDeleted":false}
+{"FirstName":"yuslo","LastName":"yuslodic","Address":"osun","Contact":"0906784538","DateOfBirth":"12/10/2002","Gender":"male","UserEmail":"yuslo@gmail.com","Id":4,"IsDeleted":false}
+{"FirstName":"saidi","LastName":"balogun","Address":"abk","Contact":"090234356","DateOfBirth":"12/10/2002","Gender":"male","UserEmail":"saidi@gmail.com","Id":5,"IsDeleted":false}
+{"FirstName":"david","LastName":"lekan","Address":"lag","Contact":"090","DateOfBirth":"15","Gender":"male","UserEmail":"david@gmail.com","Id":6,"IsDeleted":false}

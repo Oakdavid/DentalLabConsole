@@ -1,0 +1,10 @@
+{"CardNo":"RDT/DENTAL/00/55","UserEmail":"oak@gmail.com","Password":"oak","Id":1,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/35","UserEmail":"wahab@gmail.com","Password":"wahab","Id":2,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/40","UserEmail":"ola@gmail.com","Password":"ola","Id":3,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/87","UserEmail":"olami@gmail.com","Password":"olami","Id":4,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/75","UserEmail":"biola@gmail.com","Password":"biola","Id":5,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/22","UserEmail":"kay@gmail.com","Password":"kay","Id":6,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/43","UserEmail":"adele@gmail.com","Password":"adele","Id":7,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/7","UserEmail":"yuslo@gmail.com","Password":"yuslo","Id":8,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/72","UserEmail":"saidi@gmail.com","Password":"saidi","Id":9,"IsDeleted":false}
+{"CardNo":"RDT/DENTAL/00/80","UserEmail":"david@gmail.com","Password":"davido","Id":10,"IsDeleted":false}

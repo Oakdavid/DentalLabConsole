@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLogic",
+    "\\BusinessLogic\\Implementation",
+    "\\BusinessLogic\\Interface",
+    "\\Dbcontext",
+    "\\Models"
+  ],
+  "SelectedNode": "\\Models\\Appointment.cs",
+  "PreviewInSolutionExplorer": false
+}

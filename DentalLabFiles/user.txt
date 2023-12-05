@@ -1,0 +1,9 @@
+{"Email":"oak@gmail.com","Password":"oak","Role":"Patient","Id":1,"IsDeleted":false}
+{"Email":"wahab@gmail.com","Password":"wahab","Role":"Patient","Id":2,"IsDeleted":false}
+{"Email":"olami@gmail.com","Password":"olami","Role":"Patient","Id":4,"IsDeleted":false}
+{"Email":"biola@gmail.com","Password":"biola","Role":"Patient","Id":5,"IsDeleted":false}
+{"Email":"kay@gmail.com","Password":"kay","Role":"Patient","Id":6,"IsDeleted":false}
+{"Email":"adele@gmail.com","Password":"adele","Role":"Patient","Id":7,"IsDeleted":false}
+{"Email":"yuslo@gmail.com","Password":"yuslo","Role":"Patient","Id":8,"IsDeleted":false}
+{"Email":"saidi@gmail.com","Password":"saidi","Role":"Patient","Id":9,"IsDeleted":false}
+{"Email":"david@gmail.com","Password":"davido","Role":"Patient","Id":10,"IsDeleted":false}
