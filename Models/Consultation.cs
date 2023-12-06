@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DentalLabConsoleApp.Models
 {
-    public class ConsultationType
+    public class Consultation
     {
         public string? Name {get; set;}
         public double Price{get; set;}
