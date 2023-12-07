@@ -11,6 +11,6 @@ namespace DentalLabConsoleApp.Models
         public string DrNumber{get; set;}
         public string PtCardNumber{get; set;}
         public string Content{get; set;}
-        public string ContentType{get; set;}
+        //public string ContentType{get; set;}
     }
 }
